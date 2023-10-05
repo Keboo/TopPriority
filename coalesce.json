@@ -1,0 +1,16 @@
+{
+  "webProject": {
+    "projectFile": "./TopPriority.Web/TopPriority.Web.csproj"
+  },
+  "dataProject": {
+    "projectFile": "./TopPriority.Data/TopPriority.Data.csproj"
+  },
+
+  "rootGenerator": "Vue",
+
+  "generatorConfig": {
+    "Scripts": {
+      "targetDirectory": "../src"
+    }
+  }
+}
